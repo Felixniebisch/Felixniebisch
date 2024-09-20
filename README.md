@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A cognitive scientist from Germany</h3>
+<h3 align="center">A cognitive scientist from Germany (I've just begun my Github journey, and am happy to contribute to the open source community)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixniebisch&label=Profile%20views&color=0e75b6&style=flat" alt="felixniebisch" /> </p>
 
