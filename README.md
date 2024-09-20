@@ -1,3 +1,5 @@
+[![MasterHead](<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/ef39fed0-1768-4f77-b295-ccfe98dcd52e">)]
+
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A cognitive scientist from Germany</h3>
 
