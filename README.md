@@ -1,6 +1,6 @@
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/ef39fed0-1768-4f77-b295-ccfe98dcd52e">
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
