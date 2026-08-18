@@ -10,9 +10,9 @@ Currently, I’m particularly interested in brain-computer interfaces, neuroergo
 
 ⸻
 
-Selected projects
+Projects:
 
-motor-learning-analysis
+[motor-learning-analysis](https://github.com/Felixniebisch/motor-learning-analysis)
 
 Computational analysis of motor learning in rodents
 
@@ -30,7 +30,7 @@ Full thesis → [DiVA](https://www.diva-portal.org/smash/get/diva2:1974566/FULLT
 
 ⸻
 
- Recognize-intrinsic-motivation-through-LLM-processing
+[llm-motivation-scoring](https://github.com/Felixniebisch/llm-motivation-scoring)
 
 Inferring psychological constructs from natural language
 
