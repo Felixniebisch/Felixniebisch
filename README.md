@@ -1,6 +1,6 @@
 # Felix Niebisch
 
-Cognitive scientist working at the intersection of psychology, applied AI, and neurotechnology.
+Cognitive scientist aspiring to work at the intersection of psychology, applied AI, and neurotechnology.
 
 ## Featured projects
 
