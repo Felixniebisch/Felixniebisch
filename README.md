@@ -6,7 +6,7 @@ Currently exploring how this background applies to brain-computer interfaces and
 
 ## Featured projects
 
-**[Master-Thesis_2025](https://github.com/felixniebisch/Master-Thesis_2025)**
+**[motor-learning-analysis](https://github.com/Felixniebisch/motor-learning-analysis) (Master Thesis code)**
 Python pipeline combining DeepLabCut pose estimation, K-means trajectory clustering, and Arduino-based force-sensor acquisition — with real-time threshold detection — to characterize motor learning in a rodent corticostriatal circuit.
 [Full thesis (DiVA)](https://www.diva-portal.org/smash/get/diva2:1974566/FULLTEXT01.pdf)
 
@@ -16,7 +16,7 @@ Python pipeline combining DeepLabCut pose estimation, K-means trajectory cluster
 </p>
 <!-- Six mice have both a trajectory and a heatmap GIF (M1791, M1792, M1794-M1797) — swap the ID above if you'd rather feature a different one. -->
 
-**[Recognize-intrinsic-motivation-through-LLM-processing](https://github.com/felixniebisch/Recognize-intrinsic-motivation-through-LLM-processing)**
+**[llm-motivation-scoring](https://github.com/Felixniebisch/llm-motivation-scoring)**
 LLM-based pipeline inferring intrinsic motivation (Self-Determination Theory) scores from free-text responses, validated against the Intrinsic Motivation Inventory across 245 participants and six subscales. Submitted to IEEE Transactions on Affective Computing.
 <!-- Add the submission/preprint link here once you have it -->
 
