@@ -28,7 +28,7 @@ LLM-based pipeline inferring intrinsic motivation (Self-Determination Theory) sc
 
 ## Writing
 
-Occasional writing on philosophy, psychology, and data science — [Medium](#) 
+Occasional writing on philosophy, psychology, and data science — [Medium ](https://medium.com/@felix.niebisch)
 
 ## Tools & languages
 
