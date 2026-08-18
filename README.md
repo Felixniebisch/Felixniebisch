@@ -1,12 +1,104 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/ef39fed0-1768-4f77-b295-ccfe98dcd52e">
+Felix Niebisch
+
+Cognitive Scientist · Psychology · Applied AI · Computational Research
+
+I’m a cognitive scientist with a background in psychology and cognitive science, interested in how computational methods can be used to understand human behavior and underlying cognitive processes.
+
+My work sits at the intersection of psychology, machine learning, and behavioral/neurophysiological data. I enjoy building research pipelines that turn complex, noisy signals into interpretable measures — from language-based models of psychological constructs to sensor- and pose-based analyses of motor behavior.
+
+Currently, I’m particularly interested in brain-computer interfaces, neuroergonomics, and human-AI interaction, and in how machine learning can help make behavioral and neurophysiological signals more useful for understanding cognition.
+
+⸻
+
+Selected projects
+
+motor-learning-analysis
+
+Computational analysis of motor learning in rodents
+
+A Python-based analysis pipeline combining:
+
+* DeepLabCut for markerless pose estimation
+* K-means clustering for trajectory classification
+* Arduino-based force sensing
+* Real-time threshold detection
+* Longitudinal behavioral analysis
+
+The project explores how changes in motor behavior can be quantified over repeated training sessions in a rodent corticostriatal model.
+
+Full thesis → [DiVA](https://www.diva-portal.org/smash/get/diva2:1974566/FULLTEXT01.pdf)
+
+⸻
+
+ Recognize-intrinsic-motivation-through-LLM-processing
+
+Inferring psychological constructs from natural language
+
+An LLM-based pipeline for estimating intrinsic motivation from free-text responses, based on Self-Determination Theory and the Intrinsic Motivation Inventory.
+
+The approach was evaluated against questionnaire-based measures in 245 participants across six IMI subscales.
+
+The project combines:
+
+* LLM-based text classification
+* Psychometric validation
+* Prompt engineering
+* Statistical analysis
+* Embedding-based representations
+
+Manuscript submitted to IEEE Transactions on Affective Computing.
 
 
-<p align="left">
-</p>
+⸻
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+Research interests
+
+* Cognitive science & psychology
+* Applied AI & machine learning
+* Neurophysiological signal analysis
+* Brain-computer interfaces
+* Computational behavioral analysis
+* Psychometrics & computational methods
+* Experimental research
+
+⸻
+
+Background
+
+M.Sc. Cognitive Science — Umeå University, 2025
+Focus: cognitive science, computational methods, AI-based analysis
+
+B.Sc. Psychology — MSH Medical School Hamburg, 2023
+
+My background combines psychological assessment and clinical work with computational research in AI and behavioral neuroscience.
+
+⸻
+
+Technical toolkit
+
+Programming & Data
+Python · Pandas · NumPy · scikit-learn · MATLAB
+
+Machine Learning & AI
+PyTorch · LLMs · Embeddings · Prompt Engineering · RAG
+
+Research & Analysis
+Psychometrics · Statistical Analysis · Experimental Design · Behavioral Data · Pose Estimation
+
+Design & Prototyping
+Figma · Adobe Illustrator · Photoshop
 
 
+⸻
 
+Writing
 
+I occasionally write about psychology, cognitive science, philosophy, AI, and data science. 
+
+[Medium](https://medium.com/@felix.niebisch) 
+
+⸻
+
+Find me
+
+Portfolio · LinkedIn · Email
