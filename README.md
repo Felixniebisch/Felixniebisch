@@ -16,7 +16,9 @@ Python pipeline combining DeepLabCut pose estimation, K-means trajectory cluster
 
 **[llm-motivation-scoring](https://github.com/Felixniebisch/llm-motivation-scoring)**
 LLM-based pipeline inferring intrinsic motivation (Self-Determination Theory) scores from free-text responses, validated against the Intrinsic Motivation Inventory across 245 participants and six subscales. Submitted to IEEE Transactions on Affective Computing.
-<!-- Add the submission/preprint link here once you have it -->
+
+<img width="799" height="433" alt="image" src="https://github.com/user-attachments/assets/8b887a1e-f679-4778-adf3-54c28165ee4f" />
+
 
 ## Background
 
