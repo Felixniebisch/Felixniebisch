@@ -5,7 +5,7 @@ Cognitive scientist aspiring to work at the intersection of psychology, applied 
 ## Featured projects
 
 **[motor-learning-analysis](https://github.com/Felixniebisch/motor-learning-analysis) (Master Thesis code)**
-Python pipeline combining DeepLabCut pose estimation, K-means trajectory clustering, and Arduino-based force-sensor acquisition — with real-time threshold detection — to characterize motor learning in a rodent corticostriatal circuit study.
+Python pipeline combining DeepLabCut pose estimation, K-means trajectory clustering, and Arduino-based force-sensor acquisition to characterize motor learning in a rodent corticostriatal circuit study.
 [Full thesis (DiVA)](https://www.diva-portal.org/smash/get/diva2:1974566/FULLTEXT01.pdf)
 
 <p>
