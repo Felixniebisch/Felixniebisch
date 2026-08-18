@@ -1,8 +1,6 @@
 # Felix Niebisch
 
-Cognitive scientist working at the intersection of psychology, applied AI, and neurotechnology. I build systems that turn behavioral and neural signals into structured, usable insight — from LLM pipelines that infer psychological constructs from language, to sensor-driven pipelines that characterize motor behavior in neuroscience research.
-
-Currently exploring how this background applies to brain-computer interfaces and neuroergonomics.
+Cognitive scientist working at the intersection of psychology, applied AI, and neurotechnology.
 
 ## Featured projects
 
