@@ -37,4 +37,4 @@ Occasional writing on philosophy, psychology, and data science — [Medium ](htt
 
 ## Find me
 
-[Portfolio](https://felixniebisch.com) · [LinkedIn](https://www.linkedin.com/in/felix-niebisch-linked/)  · felix.niebisch@posteo.de 
+[Portfolio](https://felixniebisch.de) · [LinkedIn](https://www.linkedin.com/in/felix-niebisch-linked/)  · felix.niebisch@posteo.de 
