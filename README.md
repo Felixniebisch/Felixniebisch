@@ -8,11 +8,7 @@ Cognitive scientist aspiring to work at the intersection of psychology, applied 
 Python pipeline combining DeepLabCut pose estimation, K-means trajectory clustering, and Arduino-based force-sensor acquisition to characterize motor learning in a rodent corticostriatal circuit study.
 [Full thesis (DiVA)](https://www.diva-portal.org/smash/get/diva2:1974566/FULLTEXT01.pdf)
 
-<p>
-  <img src="https://raw.githubusercontent.com/Felixniebisch/Master-Thesis_2025/main/Animated%20Trajectories/M1791_animated_trajectory.gif" alt="Tracked forelimb trajectory" width="45%">
-  <img src="https://raw.githubusercontent.com/Felixniebisch/Master-Thesis_2025/main/Gaussian_heatmaps_GIFs/M1791_heatmaps.gif" alt="Gaussian heatmap of tracked movement" width="45%">
-</p>
-<!-- Six mice have both a trajectory and a heatmap GIF (M1791, M1792, M1794-M1797) — swap the ID above if you'd rather feature a different one. -->
+<p> <img src="https://raw.githubusercontent.com/Felixniebisch/motor-learning-analysis/main/Animated%20Trajectories/M1791_animated_trajectory.gif" alt="Tracked forelimb trajectory" width="45%"> <img src="https://raw.githubusercontent.com/Felixniebisch/motor-learning-analysis/main/Gaussian_heatmaps_GIFs/M1791_heatmaps.gif" alt="Gaussian heatmap of tracked movement" width="45%"> </p>
 
 **[llm-motivation-scoring](https://github.com/Felixniebisch/llm-motivation-scoring)**
 LLM-based pipeline inferring intrinsic motivation (Self-Determination Theory) scores from free-text responses, validated against the Intrinsic Motivation Inventory across 245 participants and six subscales. Submitted to IEEE Transactions on Affective Computing.
