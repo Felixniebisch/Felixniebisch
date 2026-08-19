@@ -33,7 +33,7 @@ Occasional writing on philosophy, psychology, and data science — [Medium ](htt
 ## Tools & languages
 
 **Research & ML:** Python · scikit-learn · Pandas · Seaborn · MATLAB
-**Other:** AWS · Figma · Adobe Illustrator · Photoshop
+**Other:** Figma · Adobe Illustrator · Photoshop
 
 ## Find me
 
